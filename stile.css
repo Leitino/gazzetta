@@ -9,9 +9,15 @@ body{
 }
 
 a{
+  margin-top: 5px;
+  font-size: 15px;
   text-decoration: none;
   color: black;
   display: block;
+}
+
+#homepage{
+  display: inline-block;
 }
 
 .contenitore{
